@@ -2,4 +2,4 @@
 EJERCICIO 1: MAQUINA DE REFRESCOS
 ------------------------------------------------------------------------
 
-AUTOR: JHONNY ALVARO TICONA MENDOZA
+AUTOR: JORGE LUIS CALLIZAYA DIAZ
